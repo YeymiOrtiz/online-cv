@@ -109,7 +109,7 @@ skills:
       - name: c++
         level: 25%
         
-        - name: Modelado 3D
+        -name: Modelado 3D
         level: 35%
 
 footer: >
