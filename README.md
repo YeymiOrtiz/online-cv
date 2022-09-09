@@ -39,7 +39,7 @@ Watch my [video](https://www.youtube.com/embed/T2nx6tj-ZH4) on installation.
 
 There are 6 color schemes available:
 
-| Blue | Turquoise | Green |
+| Orange | Turquoise | Green |
 |---------|---------|---------|
 | <img src="https://online-cv.webjeda.com/assets/images/blue.jpg" width="300"/> | <img src="https://online-cv.webjeda.com/assets/images/turquoise.jpg" width="300"/> | <img src="https://online-cv.webjeda.com/assets/images/green.jpg" width="300"/> |
 
