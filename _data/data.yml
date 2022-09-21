@@ -49,7 +49,7 @@ career-profile:
       faucibus nisl tincidunt eget nullam. In nibh mauris cursus mattis molestie a iaculis.
 
 education:
-      degree: Bachiller Tecnico Profesional En Informatica 
+    - degree: Bachiller Tecnico Profesional En Informatica 
       university: Liceo Militar De honduras
       time: 2018 - 2022
       details: |
