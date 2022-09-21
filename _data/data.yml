@@ -49,17 +49,12 @@ career-profile:
       faucibus nisl tincidunt eget nullam. In nibh mauris cursus mattis molestie a iaculis.
 
 education:
-    - degree: Bachiller Tecnico Profesional En Informatica 
+      degree: Bachiller Tecnico Profesional En Informatica 
       university: Liceo Militar De honduras
       time: 2018 - 2022
       details: |
          Soy una estudiante que en el proceso eh logrado desarrollar un conjunto de conocimientos que tengo la certeza que 
-         serán de apoyo para la empresa que me brinde la oportunidad.   
- 
-         Instituto Francisco Morazán   ene 2010 ene 2017
-        -Pre-Básica   
-        -Básica 
-
+         serán de apoyo para la empresa que me brinde la oportunidad.
     
 
 publications:
